@@ -1,6 +1,6 @@
 # Endpoint-Telemetry-Research-Tool
 
-A research-focused toolkit for collecting, analyzing, and visualizing **endpoint telemetry** data to improve understanding of endpoint behavior and enhance threat detection. Endpoint telemetry refers to the automated collection and analysis of system and security events from endpoint devices (e.g., laptops, servers, workstations) for performance insights and cybersecurity purposes. :contentReference[oaicite:1]{index=1}
+A research-focused toolkit for collecting, analyzing, and visualizing **endpoint telemetry** data to improve understanding of endpoint behavior and enhance threat detection. Endpoint telemetry refers to the automated collection and analysis of system and security events from endpoint devices (e.g., laptops, servers, workstations) for performance insights and cybersecurity purposes.
 
 ---
 
