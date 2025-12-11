@@ -14,7 +14,7 @@ This project is designed to help security researchers, analysts, and developers:
 - Perform research on how endpoints behave under various conditions
 - Assist in threat hunting and incident investigation
 
-Telemetry plays a crucial role in cybersecurity, offering a deep view into system activity that can help identify suspicious behavior, performance issues, or signs of compromise. :contentReference[oaicite:2]{index=2}
+Telemetry plays a crucial role in cybersecurity, offering a deep view into system activity that can help identify suspicious behavior, performance issues, or signs of compromise. 
 
 ---
 
