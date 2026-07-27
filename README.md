@@ -38,6 +38,6 @@ Telemetry plays a crucial role in cybersecurity, offering a deep view into syste
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AdeshYadav8918/Endpoint-Telemetry-Research-Tool-
+git clone https://github.com/AdeshYadav8918/Endpoint-Telemetry-Research-Tool
 
 cd Endpoint-Telemetry-Research-Tool-
